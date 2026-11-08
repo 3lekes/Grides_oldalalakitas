@@ -50,6 +50,9 @@ nav{
     grid-area: H;
     background-color: rgb(35, 173, 173);
 }
+p{
+    text-align:center;
+}
 
 @media screen and (max-width:800px){
     main{
